@@ -146,6 +146,14 @@ input, select, textarea {
 		letter-spacing: 0.025em;
 	}
 
+	.exp-color {
+		color: #3fb1a3
+	}
+
+	.exp-comp {
+		color: #83d3c9
+	}
+
 	sub {
 		font-size: 0.8em;
 		position: relative;
@@ -2154,7 +2162,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		button.primary,
 		.button.primary {
-			background: #83d3c9;
+			background: #83d3c9; 
 			border-color: #83d3c9;
 			color: #fff !important;
 		}
@@ -2622,6 +2630,9 @@ input, select, textarea {
 
 		#cta header {
 			margin-bottom: 2em;
+		}
+		#cta section {
+			color: #645862
 		}
 
 /* Footer */
